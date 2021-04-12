@@ -10,11 +10,13 @@ Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqu
 
 ### Sobre o Projeto
 
+Este projeto foi desenvolvido baseado na interface do Spotify, o mesmo não contém as funcionalidades do Spotify, mais somente sua interface.
+
 A ideia é:
 
-_"Criar uma aplicação clone do Spotify, com intuito de promover o aprendizado utilizando o framework Bootstrap"_
+_"Criar uma aplicação clone do Spotify UI, com intuito de promover o aprendizado utilizando o framework Bootstrap"_
 
-Este repositório tem foco, na criação de uma aplicação clone do Spotify.
+Este repositório tem foco, na criação de uma aplicação clone do Spotify UI.
 
 --------------------------------------------------------------------------------------
 
