@@ -1,9 +1,5 @@
 ## Spotify
 
-![LICENSE](https://img.shields.io/github/license/LucasSantus/spotify)
-![Languages](https://img.shields.io/github/languages/count/LucasSantus/spotify)
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasSantus/spotify)
-
 Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
 
 --------------------------------------------------------------------------------------
