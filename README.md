@@ -1,6 +1,6 @@
 ## Spotify
 
-![License](https://img.shields.io/github/license/LucasSantus/)
+![License](https://img.shields.io/github/license/LucasSantus/spotify)
 ![Languages](https://img.shields.io/github/languages/count/LucasSantus/spotify)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LucasSantus/spotify)
 
