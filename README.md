@@ -1,6 +1,6 @@
 ## Spotify
 
-![License](https://img.shields.io/github/license/LucasSantus/spotify)
+![License](https://img.shields.io/github/license/LucasSantus/)
 ![Languages](https://img.shields.io/github/languages/count/LucasSantus/spotify)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LucasSantus/spotify)
 
@@ -40,4 +40,4 @@ Obrigado por me visitar e boa codificação!
 
 ### License
 
-Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/controle-visitantes/blob/master/LICENSE) para melhores detalhes.
+Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/spotify/blob/master/LICENSE) para melhores detalhes.
