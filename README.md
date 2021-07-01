@@ -7,7 +7,7 @@
  <a href="#roadmap">Roadmap</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#license">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
@@ -15,7 +15,7 @@
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-### Sobre o Projeto
+### Sobre
 
 A ideia é:
 
