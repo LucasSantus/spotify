@@ -4,8 +4,9 @@
  <a href="#sobre">Sobre</a> •
  <a href="#porque">Por Que</a> • 
  <a href="#features">Features</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#autor">Autor</a> • 
  <a href="#license">Licença</a> • 
- <a href="#autor">Autor</a>
 </p>
 
 <h6 align="center"> 
