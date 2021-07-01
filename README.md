@@ -2,10 +2,9 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#porque">Por Que</a> • 
- <a href="#features">Features</a> •
+ <a href="#porque">Por Que</a> •
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#autor">Autor</a> • 
+ <a href="#autor">Autor</a> •
  <a href="#license">Licença</a>
 </p>
 
@@ -35,21 +34,11 @@ Este é um projeto totalmente grátis!
 
 --------------------------------------------------------------------------------------
 
-### Features
-
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ### Autor
 
