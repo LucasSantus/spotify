@@ -1,7 +1,5 @@
 <h1 align="center">Spotify</h1>
 
-<p align="center">Escrevendo um README top</p>
-
 <p align="center">
  <a href="#sobre">Sobre</a> •
  <a href="#por que?">Por Que</a> • 
@@ -17,10 +15,6 @@
 <h6 align="center"> 
 	Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
 </h6>
-
-## Spotify
-
---------------------------------------------------------------------------------------
 
 ### Sobre
 
@@ -42,6 +36,7 @@ Você pode usar este projeto como quiser, seja para estudar, fazer melhorias, vo
 
 Este é um projeto totalmente grátis!
 
+--------------------------------------------------------------------------------------
 
 ### Features
 
@@ -60,44 +55,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Autor
----
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="https://github.com/LucasSantus">
+ <img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>Lucas Santus</b></sub></a><a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">🚀
+</a>
 
+Feito com ❤️ por Lucas Santus 
+👋🏽 Entre em contato!
 
-Feito com ❤️ por Thiago Marinho 👋🏽 Entre em contato!
-
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-
-### Autores
- 
-- **LucasSantus:** [GitHub](https://github.com/LucasSantus)
- 
-Siga-me no github.
-
-Obrigado por me visitar e boa codificação!
-
---------------------------------------------------------------------------------------
-
-### License
-
-Este projeto está licenciado sob a MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/Languages/blob/master/LICENSE) para melhores detalhes.
-
-
-
---------------------------------------------------------------------------------------
-
-### Autor(es)
- 
-- **Lucas Santos:** [GitHub](https://github.com/LucasSantus)
- 
-Siga-me no github!
-
-Obrigado por me visitar e boa codificação!
+Obrigado por visitar e boa codificação!
 
 --------------------------------------------------------------------------------------
 
