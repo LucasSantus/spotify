@@ -14,13 +14,15 @@
 	🚧  README Em construção... 🚀 🚧
 </h4>
 
-## Spotify
+<h6 align="center"> 
+	Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
+</h6>
 
-Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
+## Spotify
 
 --------------------------------------------------------------------------------------
 
-### Sobre o Projeto
+### Sobre
 
 Este projeto foi desenvolvido baseado na interface do Spotify, o mesmo não contém as funcionalidades do Spotify, mais somente sua interface.
 
