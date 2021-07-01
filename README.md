@@ -51,7 +51,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </div>
 <br />
 Feito com ❤️ por Lucas Santus!<br />
-Entre em contato!<br />
 Obrigado por visitar e boa codificação!<br />
 
 --------------------------------------------------------------------------------------
