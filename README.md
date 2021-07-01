@@ -2,18 +2,18 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#por que?">Por Que</a> • 
+ <a href="#porque">Por Que</a> • 
  <a href="#features">Features</a> •
  <a href="#license">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
 
 <div align="center"> 
-	🚧  README Em construção... 🚀 🚧
+	🚧  Readme em construção... 🚀 🚧
 </div>
 
 <h6 align="center"> 
-	Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
+	Se você quiser dar uma olhada em todas as telas do aplicativo, clique <a href="#autor">aqui</a>.
 </h6>
 
 ### Sobre
@@ -28,7 +28,7 @@ Este repositório tem foco, na criação de uma aplicação clone do Spotify UI.
 
 --------------------------------------------------------------------------------------
 
-### Por Que?
+### Porque
 
 Este projeto faz parte do meu portfólio pessoal, então, ficarei feliz caso você forneça algum feedback, código, estrutura, funcionalidade ou qualquer funcionalidade/melhoria que você possa relatar para melhora-lo.
 
@@ -59,11 +59,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/LucasSantus">
  <img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
  <br />
- <sub><b>Lucas Santus</b></sub></a><a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">🚀
+ <sub><b>Lucas Santus</b></sub></a><a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">
 </a>
 
 Feito com ❤️ por Lucas Santus 
-👋🏽 Entre em contato!
+Entre em contato!
 
 Obrigado por visitar e boa codificação!
 
