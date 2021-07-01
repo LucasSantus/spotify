@@ -8,9 +8,9 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
+<div align="center"> 
 	🚧  README Em construção... 🚀 🚧
-</h4>
+</div>
 
 <h6 align="center"> 
 	Se você quiser dar uma olhada em todas as telas do aplicativo, elas estão [aqui](static/imagens/images-project/README.md).
