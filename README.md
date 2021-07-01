@@ -6,7 +6,7 @@
  <a href="#features">Features</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a> • 
- <a href="#license">Licença</a> • 
+ <a href="#license">Licença</a>
 </p>
 
 <h6 align="center"> 
@@ -41,7 +41,7 @@ Este é um projeto totalmente grátis!
 - [x] Cadastro de cliente
 - [ ] Cadastro de produtos
 
-### 🛠 Tecnologias
+### Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -53,21 +53,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
-<div align="center"> 
+<div align="left"> 
 	<a href="https://github.com/LucasSantus">
 		<img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
 		<br />
 		Lucas Santus
 	</a>
-	<a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">
-	</a>
 </div>
-
-
-Feito com ❤️ por Lucas Santus 
-Entre em contato!
-
-Obrigado por visitar e boa codificação!
+<br />
+Feito com ❤️ por Lucas Santus!<br />
+Entre em contato!<br />
+Obrigado por visitar e boa codificação!<br />
 
 --------------------------------------------------------------------------------------
 
