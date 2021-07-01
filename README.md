@@ -8,10 +8,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-<div align="center"> 
-	🚧  Readme em construção... 🚀 🚧
-</div>
-
 <h6 align="center"> 
 	Se você quiser dar uma olhada em todas as telas do aplicativo, clique <a href="#autor">aqui</a>.
 </h6>
@@ -56,11 +52,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
-<a href="https://github.com/LucasSantus">
- <img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
- <br />
- <sub><b>Lucas Santus</b></sub></a><a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">
-</a>
+<div align="center"> 
+	<a href="https://github.com/LucasSantus">
+		<img style="border-radius: 50%;" src="https://github.com/LucasSantus.png" width="100px;" alt=""/>
+		<br />
+		Lucas Santus
+	</a>
+	<a href="https://blog.rocketseat.com.br/author/thiago//" title="Github">
+	</a>
+</div>
+
 
 Feito com ❤️ por Lucas Santus 
 Entre em contato!
