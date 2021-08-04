@@ -9,7 +9,7 @@
 </p>
 
 <h6 align="center"> 
-	Se você quiser dar uma olhada no aplicativo, clique <a href="https://oondev.github.io/projects/spotify/">aqui</a>.
+	Se você quiser dar uma olhada no projeto, clique <a href="https://oondev.github.io/projects/spotify/" target="blank">aqui</a>.
 </h6>
 
 ### Sobre
