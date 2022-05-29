@@ -3,7 +3,7 @@
 </h1>
 
 <h6 align="center"> 
-	Se você quiser visualizar o projeto, clique <a href="https://lucassantus.github.io/portfolio/projects/gallery-images/" target="_blank">aqui</a>.
+	Se você quiser visualizar o projeto, clique <a href="https://lucassantus.github.io/portfolio/projects/spotify/" target="_blank">aqui</a>.
 </h6>
 
 <h3 id="sobre">:information_source: Sobre</h3>
@@ -77,4 +77,4 @@ Obrigado por visitar e boa codificação!<br />
 
 <h3 id="license">:memo: License</h3>
 
-Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/gallery-images/blob/master/LICENSE) para melhores detalhes.
+Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/spotify/blob/master/LICENSE) para melhores detalhes.
