@@ -50,7 +50,7 @@ Este é um projeto totalmente grátis!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Bootstrap 4.1](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 --------------------------------------------------------------------------------------
 
