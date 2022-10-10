@@ -12,7 +12,7 @@
 
 A ideia é:
 
-_"Criar uma Galeria de Imagens onde o mesmo tenha um design simples e belo, com intuito de promover o aprendizado utilizando o Bootstrap framework."_
+_"Criar um Clone UI do Spotify utilizando bootstrap 4 para aprimorar os conhecimentos sobre a ferramenta."_
 
 --------------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Este é um projeto totalmente grátis!
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
 
 --------------------------------------------------------------------------------------
 
