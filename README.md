@@ -3,7 +3,7 @@
 </h1>
 
 <h6 align="center"> 
-	Se você quiser visualizar o projeto, clique <a href="https://lucassantus.github.io/portfolio/projects/spotify/" target="_blank">aqui</a>.
+	Se você quiser visualizar o projeto, clique <a href="https://spotify-ls.netlify.app/" target="_blank">aqui</a>.
 </h6>
 
 <h3 id="sobre">:information_source: Sobre</h3>
